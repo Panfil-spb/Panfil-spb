@@ -5,3 +5,10 @@
 <h1 align="center">Now you can see my achievements on github</h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Panfil-spb)](https://github.com/Panfil-spb/github-profile-trophy)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panfil-spb)](https://github.com/Panfil-spb/github-readme-stats)
+
+<h1 align="center">My LeetCode stat</h1>
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Panfil-spb&theme=dark)](https://github.com/Panfil-spb/leetcode-stats)
